@@ -1,0 +1,5 @@
+student_id,last_name,first_name,section,quiz1,quiz2,quiz3,quiz4,quiz5,midterm,final,attendance_percent,quiz_average,final_grade,letter_grade,improvement
+1006,Garcia,Maria,C,88.0,90.0,87.0,89.0,91.0,88.0,90.0,98.0,89.0,90.0,A,2.272727272727273
+1007,Miller,James,C,72.0,75.0,73.0,78.0,76.0,75.0,77.0,88.0,74.8,77.06,C,2.666666666666667
+1010,Martinez,Ana,C,80.0,82.0,81.0,83.0,84.0,82.0,84.0,92.0,82.0,83.8,B,2.4390243902439024
+1013,Gonzalez,Diego,C,70.0,72.0,71.0,73.0,74.0,72.0,74.0,85.0,72.0,74.1,C,2.7777777777777777

@@ -1,0 +1,23 @@
+{
+    "weights": {
+        "quizzes": 0.20,
+        "midterm": 0.30,
+        "final": 0.40,
+        "attendance": 0.10
+    },
+    "thresholds": {
+        "at_risk": 60.0,
+        "excellent": 90.0
+    },
+    "paths": {
+        "input_folder": "data",
+        "output_folder": "output"
+    },
+    "grade_scale": {
+        "A": 90,
+        "B": 80,
+        "C": 70,
+        "D": 60,
+        "F": 0
+    }
+}
